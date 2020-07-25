@@ -10,9 +10,10 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/tjhooper1/github-readme-stats)*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjhooper1&count_private=true&show_icons=true&theme=onedark)](https://github.com/tjhooper1/github-readme-stats)
-[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tjhooper1&count_private=true&show_icons=true&theme=onedark)](https://github.com/tjhooper1/github-readme-stats)
 <a href="https://github.com/tjhooper1/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tjhooper1&repo=netflix-clone&count_private=true&show_icons=true&theme=onedark" />
 </a>
+[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tjhooper1&count_private=true&show_icons=true&theme=onedark)](https://github.com/tjhooper1/github-readme-stats)
+
 
 
