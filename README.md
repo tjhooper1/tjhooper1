@@ -1,7 +1,7 @@
 ### Hi there, I'm [Tom!](https://anuraghazra.github.io) 👋
 
 <a href="https://www.linkedin.com/in/tjhooper88/">
-  <img align="left" alt="Tom HOoper | LinkedIn" width="21px" src="https://raw.githubusercontent.com/tjhooper1/tjhooper1/images/linkedin.svg" />
+  <img align="left" alt="Tom HOoper | LinkedIn" width="21px" src="https://raw.githubusercontent.com/tjhooper1/tjhooper1/master/images/linkedin.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
